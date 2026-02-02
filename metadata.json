@@ -1,0 +1,8 @@
+{
+  "name": "OmniCast - Multi-Platform Streaming Studio",
+  "description": "A professional-grade multistreaming dashboard allowing you to broadcast to multiple social media platforms simultaneously via browser or OBS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
